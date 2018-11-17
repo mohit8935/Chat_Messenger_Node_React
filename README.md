@@ -2,4 +2,4 @@
 Simple chat application using Node js, react, express
 ## Screenshot:
 
-![altext]()
+![altext](image.jpeg)
